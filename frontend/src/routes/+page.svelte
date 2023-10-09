@@ -15,7 +15,15 @@
 				I'm also a student at the Institute Of Technology of Matamoros,
 				taking up BS Computer Systems Engineering.
 			</p>
+			<p class="text-lg">
+			I'm currently working on learn more about Vim, and how to use it, even though I'm using Neovim
+			It's a very powerful tool, and I want to master it.
+			</p>
+
+
+
 		</div>
+
 	</div>
 </div>
 
