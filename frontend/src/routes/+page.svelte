@@ -19,8 +19,14 @@
 			I'm currently working on learn more about Vim, and how to use it, even though I'm using Neovim
 			It's a very powerful tool, and I want to master it.
 			</p>
-
-
+			<p class="text-lg">
+			I'm also learning about Svelte, and how to use it, I'm currently using it for this website.
+			</p>
+			<p class="text-lg">
+			I'm also learning about Rust, and how to use it, I'm currently using it for a project I'm working on.
+			</p>
+			
+				
 
 		</div>
 
